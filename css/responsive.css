@@ -1,0 +1,868 @@
+@media(max-width:575px){
+    .navbar-toggler {
+border: 0px solid transparent !important;
+}
+.navbar-toggler:focus {
+	box-shadow: 0 0 0 0rem!important;
+}
+.navbar-toggler-icon {
+	text-align: left !important;
+	left: 50px !important;
+	top: 50px !important;
+	transform: translate(-268px ,-1px) !important;
+}
+.main-bg img{width: 100px;}
+
+/* .me-2 {
+	margin-right: 3.5rem !important;
+} */
+
+.main-bg{padding: 10px!important;}
+
+.mega-menu {
+	/* height: 57px!important; */
+	top: -8px!important;
+    text-align: left;
+}
+.search-box {
+	border-radius: 1.25rem !important;
+	padding: -1.5rem 5.75rem !important;
+	padding-left: 27px!important;
+}
+.mega-menu ul li {
+padding: 0px 10px!important;
+font-size: 8pt;
+}
+.mega-menu ul li ul {
+margin-left: 56px!important;
+}
+.mega-menu ul li ul li {
+	margin: 0px -39px !important;
+	top: -48px !important;
+	transform: translate(21px,47px) !important;
+	text-align: left !important;
+}
+.mega-menu ul li ul {
+	padding: 6px 17px !important;
+	transform: translate(12px,-69px) !important;
+}
+.mega-menu ul li:hover > ul{
+    display:block;
+    color: #3BB77E;
+    }
+    .banner-text h1 {
+        font-size: 15pt !important;
+        margin-top: 2% !important;
+        width: 59% !important;
+    }
+.banner-text h2 {
+font-size: 9pt!important;
+margin-bottom: -1px!important;
+}
+
+.banner-text {
+	left: 33px !important;
+}
+.banner-img  img{
+width: 100%;
+}
+#banner .slick-dots {
+transform: translateY(-32%)!important;
+}
+.menu {
+display: contents!important;
+}
+.menu ul li {
+	padding: 0px 46px!important;
+	margin-left: -77px!important;
+}
+.top-btn-one h1 {
+	font-size: 13pt!important;
+}
+.image-btnn {
+	margin-right: -8px !important;
+}
+.fresh-product-inner h1 {
+	font-size: 13pt !important;
+	width: 61% !important;
+	margin-top: -140px !important;
+	padding-left: 31px !important;
+}
+.product-button {
+	margin-top: 3%!important;
+	margin-left: 31px!important;
+	font-size: 11px!important;
+transform: translate(-50px,-50px);
+}
+.poputar-text {
+    display: inline-block!important;
+	padding-top: 112px!important;
+	padding-bottom: -14px!important;
+}
+.poputar-text h1 {
+	font-size: 13pt!important;
+
+}
+.menuu ul {
+margin-left: -33px!important;
+}
+.menuu ul li {
+padding:2px!important;
+}
+.popular-items {
+	left: -24px !important;
+	margin-left: -48px !important;
+}
+.popular-main {
+	padding: 10px 49px !important;
+}
+.best-sell-text {
+	margin-top: -110px!important;
+	justify-content: space-between;
+}
+.best-sell-text h1 {
+	font-size: 13pt!important;
+    display: inherit!important;
+    width: 73%;
+}
+.slick-menu ul li {
+	padding: 1px!important;
+}
+.best-items {
+margin-top: 2px!important;
+}
+.slick-menu ul li a {
+	font-size: 10pt!important;
+	text-align: left!important;
+}
+.deal-text h1 {
+	font-size: 13pt!important;
+}
+
+#day-deal-part {
+	padding: 77px 15px!important;
+	margin-top: -42%!important;
+}
+.deal-inner-text {
+	bottom:32px!important;
+    left: 20px!important;
+}
+.deal-image {
+	left: 7px!important;
+	width: 290px!important;
+}
+.couner-timer-menu{
+padding:0px 10px!important;
+}
+#trading-part {
+margin-top: -59%!important;
+}
+.trading-top-text h1 {
+	font-size: 14pt!important;
+	margin-left: 84px!important;
+}
+.trading-inner-text h1 {
+	font-size: 14px !important;
+	margin-bottom: 20px!important;
+}
+.trading-btn .four-trading {
+	font-size: 14px!important;
+}
+.trading-btn .five-trading {
+	font-size: 14px!important;
+}
+.star-trading p {
+	width: 49%!important;
+}
+.bottom-banner-main {
+margin-top: -15%!important;
+}
+.bottom-banner-text {
+	top: 30%!important;
+	left: 35px!important;
+}
+.bottom-banner-text h1 {
+	font-size: 13pt!important;
+	margin-top: 4%!important;
+	width: 45%!important;
+}
+.bottom-banner-text h2 {
+	color: #171717!important;
+	font-size: 7pt!important;
+}
+.bottom-banner-text .text-b {
+font-size: 7pt!important;
+}
+.bottom-banner-img {
+	height: 200px!important;
+	width: 299px!important;
+}
+.great-delivery {
+	width: 297px!important;
+	margin-left: -29px!important;
+	margin-right: -18px!important;
+}
+.great-text {
+	width: 206px!important;
+	margin-left: 101px!important;
+	padding: 13px!important;
+}
+#last-btn-part {
+	padding: 3px 12px!important;
+}
+.last-location-text h1 {
+	font-size: 10pt!important;
+	width: 97%!important;
+}
+.image-apps {
+	padding-left: 3px !important;
+	margin-top: 1025px !important;
+}
+.followus-text h1 {
+	font-size: 9pt!important;
+	margin: 8px 0px!important;
+}
+.apps-two {
+	margin-left: -15px!important;
+	margin-bottom: -14px!important;
+}
+.menu-l h1 {
+	font-size: 14pt!important;
+	margin-bottom: -1px!important;
+}
+.menu-ll h1 {
+	font-size: 14pt!important;
+	margin-bottom: -1px!important;
+}
+.menu-lll h1 {
+	font-size: 14pt!important;
+	margin-bottom: -1px!important;
+}
+.menu-lv h1 {
+	font-size: 14pt!important;
+	margin-bottom: -1px!important;
+}
+.menu-l ul li a {
+	font-size: 10pt!important;
+}
+.menu-ll ul li a {
+	font-size: 10pt!important;
+}
+.menu-lll ul li a {
+	font-size: 10pt!important;
+}
+.menu-lv ul li a {
+	font-size: 10pt!important;
+}
+.menu-l {
+	top: -1160px !important;
+	left: -38px !important;
+}
+.menu-l ul li {
+	padding: 4px 0px!important;
+}
+.menu-ll {
+	top: -906px !important;
+	left: -81px !important;
+}
+.menu-ll ul li {
+	padding: 4px 0px !important;
+}
+.menu-lll {
+	top: -654px !important;
+	left: -124px !important;
+}
+.menu-lll ul li {
+	padding: 4px 0px!important;
+}
+.menu-lv {
+	top: -404px !important;
+	left: -129px !important;
+}
+.menu-lv ul li {
+	padding: 4px 0px!important;
+}
+
+
+}
+@media(min-width:576px)and(max-width:767.98px){
+    .navbar-toggler {
+        border: 0px solid transparent !important;
+        }
+        .navbar-toggler:focus {
+            box-shadow: 0 0 0 0rem!important;
+        }
+        .navbar-toggler-icon {
+            text-align: left !important;
+            left: 50px !important;
+            top: 50px !important;
+            transform: translate(-268px ,-1px) !important;
+        }
+        .main-bg img{width: 100px;}
+        
+        /* .me-2 {
+            margin-right: 3.5rem !important;
+        } */
+        
+        .main-bg{padding: 10px!important;}
+        
+        .mega-menu {
+            height: 57px!important;
+            top: -40px!important;
+        }
+        .search-box {
+            border-radius: 1.25rem !important;
+            padding: -1.5rem 5.75rem !important;
+            padding-left: 27px!important;
+        }
+        .mega-menu ul li {
+        padding: 0px 10px!important;
+        font-size: 8pt;
+        }
+        .mega-menu ul li ul {
+        margin-left: 56px!important;
+        }
+        .mega-menu ul li ul li {
+            margin: 0px -39px !important;
+            top: -48px !important;
+            transform: translate(21px,47px) !important;
+            text-align: left !important;
+        }
+        .mega-menu ul li ul {
+            padding: 6px 17px !important;
+            transform: translate(12px,-69px) !important;
+        }
+        .mega-menu ul li:hover > ul{
+            display:block;
+            color: #3BB77E;
+            }
+            .banner-text h1 {
+                font-size: 15pt !important;
+                margin-top: 2% !important;
+                width: 59% !important;
+            }
+        .banner-text h2 {
+        font-size: 9pt!important;
+        margin-bottom: -1px!important;
+        }
+        
+        .banner-text {
+            left: 33px !important;
+        }
+        .banner-img  img{
+        width: 100%;
+        }
+        #banner .slick-dots {
+        transform: translateY(-32%)!important;
+        }
+        .menu {
+        display: contents!important;
+        }
+        .menu ul li {
+            padding: 0px 46px!important;
+            margin-left: -77px!important;
+        }
+        .top-btn-one h1 {
+            font-size: 13pt!important;
+        }
+        .image-btnn {
+            margin-right: -8px !important;
+        }
+        .fresh-product-inner h1 {
+            font-size: 13pt !important;
+            width: 61% !important;
+            margin-top: -140px !important;
+            padding-left: 31px !important;
+        }
+        .product-button {
+            margin-top: 3%!important;
+            margin-left: 31px!important;
+            font-size: 11px!important;
+        transform: translate(-50px,-50px);
+        }
+        .poputar-text {
+            display: inline-block!important;
+            padding-top: 112px!important;
+            padding-bottom: -14px!important;
+        }
+        .poputar-text h1 {
+            font-size: 13pt!important;
+        
+        }
+        .menuu ul {
+        margin-left: -33px!important;
+        }
+        .menuu ul li {
+        padding:2px!important;
+        }
+        .popular-items {
+            left: -24px !important;
+            margin-left: -48px !important;
+        }
+        .popular-main {
+            padding: 10px 49px !important;
+        }
+        .best-sell-text {
+            margin-top: -110px!important;
+            justify-content: space-between;
+        }
+        .best-sell-text h1 {
+            font-size: 13pt!important;
+            display: inherit!important;
+            width: 73%;
+        }
+        .slick-menu ul li {
+            padding: 1px!important;
+        }
+        .best-items {
+        margin-top: 2px!important;
+        }
+        .slick-menu ul li a {
+            font-size: 10pt!important;
+            text-align: left!important;
+        }
+        .deal-text h1 {
+            font-size: 13pt!important;
+        }
+        
+        #day-deal-part {
+            padding: 77px 15px!important;
+            margin-top: -42%!important;
+        }
+        .deal-inner-text {
+            bottom:32px!important;
+            left: 20px!important;
+        }
+        .deal-image {
+            left: 7px!important;
+            width: 290px!important;
+        }
+        .couner-timer-menu{
+        padding:0px 10px!important;
+        }
+        #trading-part {
+        margin-top: -59%!important;
+        }
+        .trading-top-text h1 {
+            font-size: 14pt!important;
+            margin-left: 84px!important;
+        }
+        .trading-inner-text h1 {
+            font-size: 14px !important;
+            margin-bottom: 20px!important;
+        }
+        .trading-btn .four-trading {
+            font-size: 14px!important;
+        }
+        .trading-btn .five-trading {
+            font-size: 14px!important;
+        }
+        .star-trading p {
+            width: 49%!important;
+        }
+        .bottom-banner-main {
+        margin-top: -15%!important;
+        }
+        .bottom-banner-text {
+            top: 30%!important;
+            left: 35px!important;
+        }
+        .bottom-banner-text h1 {
+            font-size: 13pt!important;
+            margin-top: 4%!important;
+            width: 45%!important;
+        }
+        .bottom-banner-text h2 {
+            color: #171717!important;
+            font-size: 7pt!important;
+        }
+        .bottom-banner-text .text-b {
+        font-size: 7pt!important;
+        }
+        .bottom-banner-img {
+            height: 200px!important;
+            width: 299px!important;
+        }
+        .great-delivery {
+            width: 297px!important;
+            margin-left: -29px!important;
+            margin-right: -18px!important;
+        }
+        .great-text {
+            width: 206px!important;
+            margin-left: 101px!important;
+            padding: 13px!important;
+        }
+        #last-btn-part {
+            padding: 3px 12px!important;
+        }
+        .last-location-text h1 {
+            font-size: 10pt!important;
+            width: 97%!important;
+        }
+        .image-apps {
+            padding-left: 3px !important;
+            margin-top: 1025px !important;
+        }
+        .followus-text h1 {
+            font-size: 9pt!important;
+            margin: 8px 0px!important;
+        }
+        .apps-two {
+            margin-left: -15px!important;
+            margin-bottom: -14px!important;
+        }
+        .menu-l h1 {
+            font-size: 14pt!important;
+            margin-bottom: -1px!important;
+        }
+        .menu-ll h1 {
+            font-size: 14pt!important;
+            margin-bottom: -1px!important;
+        }
+        .menu-lll h1 {
+            font-size: 14pt!important;
+            margin-bottom: -1px!important;
+        }
+        .menu-lv h1 {
+            font-size: 14pt!important;
+            margin-bottom: -1px!important;
+        }
+        .menu-l ul li a {
+            font-size: 10pt!important;
+        }
+        .menu-ll ul li a {
+            font-size: 10pt!important;
+        }
+        .menu-lll ul li a {
+            font-size: 10pt!important;
+        }
+        .menu-lv ul li a {
+            font-size: 10pt!important;
+        }
+        .menu-l {
+            top: -1160px !important;
+            left: -38px !important;
+        }
+        .menu-l ul li {
+            padding: 4px 0px!important;
+        }
+        .menu-ll {
+            top: -906px !important;
+            left: -81px !important;
+        }
+        .menu-ll ul li {
+            padding: 4px 0px !important;
+        }
+        .menu-lll {
+            top: -654px !important;
+            left: -124px !important;
+        }
+        .menu-lll ul li {
+            padding: 4px 0px!important;
+        }
+        .menu-lv {
+            top: -404px !important;
+            left: -129px !important;
+        }
+        .menu-lv ul li {
+            padding: 4px 0px!important;
+        }
+}
+@media(min-width:768px)and(max-width:991.98px){
+    .navbar-toggler {
+        border: 0px solid transparent !important;
+        }
+        .navbar-toggler:focus {
+            box-shadow: 0 0 0 0rem!important;
+        }
+        .navbar-toggler-icon {
+            text-align: left !important;
+            left: 50px !important;
+            top: 50px !important;
+            transform: translate(-268px ,-1px) !important;
+        }
+        .main-bg img{width: 100px;}
+        
+        /* .me-2 {
+            margin-right: 3.5rem !important;
+        } */
+        
+        .main-bg{padding: 10px!important;}
+        
+        .mega-menu {
+            height: 57px!important;
+            top: -40px!important;
+        }
+        .search-box {
+            border-radius: 1.25rem !important;
+            padding: -1.5rem 5.75rem !important;
+            padding-left: 27px!important;
+        }
+        .mega-menu ul li {
+        padding: 0px 10px!important;
+        font-size: 8pt;
+        }
+        .mega-menu ul li ul {
+        margin-left: 56px!important;
+        }
+        .mega-menu ul li ul li {
+            margin: 0px -39px !important;
+            top: -48px !important;
+            transform: translate(21px,47px) !important;
+            text-align: left !important;
+        }
+        .mega-menu ul li ul {
+            padding: 6px 17px !important;
+            transform: translate(12px,-69px) !important;
+        }
+        .mega-menu ul li:hover > ul{
+            display:block;
+            color: #3BB77E;
+            }
+            .banner-text h1 {
+                font-size: 15pt !important;
+                margin-top: 2% !important;
+                width: 59% !important;
+            }
+        .banner-text h2 {
+        font-size: 9pt!important;
+        margin-bottom: -1px!important;
+        }
+        
+        .banner-text {
+            left: 33px !important;
+        }
+        .banner-img  img{
+        width: 100%;
+        }
+        #banner .slick-dots {
+        transform: translateY(-32%)!important;
+        }
+        .menu {
+        display: contents!important;
+        }
+        .menu ul li {
+            padding: 0px 46px!important;
+            margin-left: -77px!important;
+        }
+        .top-btn-one h1 {
+            font-size: 13pt!important;
+        }
+        .image-btnn {
+            margin-right: -8px !important;
+        }
+        .fresh-product-inner h1 {
+            font-size: 13pt !important;
+            width: 61% !important;
+            margin-top: -140px !important;
+            padding-left: 31px !important;
+        }
+        .product-button {
+            margin-top: 3%!important;
+            margin-left: 31px!important;
+            font-size: 11px!important;
+        transform: translate(-50px,-50px);
+        }
+        .poputar-text {
+            display: inline-block!important;
+            padding-top: 112px!important;
+            padding-bottom: -14px!important;
+        }
+        .poputar-text h1 {
+            font-size: 13pt!important;
+        
+        }
+        .menuu ul {
+        margin-left: -33px!important;
+        }
+        .menuu ul li {
+        padding:2px!important;
+        }
+        .popular-items {
+            left: -24px !important;
+            margin-left: -48px !important;
+        }
+        .popular-main {
+            padding: 10px 49px !important;
+        }
+        .best-sell-text {
+            margin-top: -110px!important;
+            justify-content: space-between;
+        }
+        .best-sell-text h1 {
+            font-size: 13pt!important;
+            display: inherit!important;
+            width: 73%;
+        }
+        .slick-menu ul li {
+            padding: 1px!important;
+        }
+        .best-items {
+        margin-top: 2px!important;
+        }
+        .slick-menu ul li a {
+            font-size: 10pt!important;
+            text-align: left!important;
+        }
+        .deal-text h1 {
+            font-size: 13pt!important;
+        }
+        
+        #day-deal-part {
+            padding: 77px 15px!important;
+            margin-top: -42%!important;
+        }
+        .deal-inner-text {
+            bottom:32px!important;
+            left: 20px!important;
+        }
+        .deal-image {
+            left: 7px!important;
+            width: 290px!important;
+        }
+        .couner-timer-menu{
+        padding:0px 10px!important;
+        }
+        #trading-part {
+        margin-top: -59%!important;
+        }
+        .trading-top-text h1 {
+            font-size: 14pt!important;
+            margin-left: 84px!important;
+        }
+        .trading-inner-text h1 {
+            font-size: 14px !important;
+            margin-bottom: 20px!important;
+        }
+        .trading-btn .four-trading {
+            font-size: 14px!important;
+        }
+        .trading-btn .five-trading {
+            font-size: 14px!important;
+        }
+        .star-trading p {
+            width: 49%!important;
+        }
+        .bottom-banner-main {
+        margin-top: -15%!important;
+        }
+        .bottom-banner-text {
+            top: 30%!important;
+            left: 35px!important;
+        }
+        .bottom-banner-text h1 {
+            font-size: 13pt!important;
+            margin-top: 4%!important;
+            width: 45%!important;
+        }
+        .bottom-banner-text h2 {
+            color: #171717!important;
+            font-size: 7pt!important;
+        }
+        .bottom-banner-text .text-b {
+        font-size: 7pt!important;
+        }
+        .bottom-banner-img {
+            height: 200px!important;
+            width: 299px!important;
+        }
+        .great-delivery {
+            width: 297px!important;
+            margin-left: -29px!important;
+            margin-right: -18px!important;
+        }
+        .great-text {
+            width: 206px!important;
+            margin-left: 101px!important;
+            padding: 13px!important;
+        }
+        #last-btn-part {
+            padding: 3px 12px!important;
+        }
+        .last-location-text h1 {
+            font-size: 10pt!important;
+            width: 97%!important;
+        }
+        .image-apps {
+            padding-left: 3px !important;
+            margin-top: 1025px !important;
+        }
+        .followus-text h1 {
+            font-size: 9pt!important;
+            margin: 8px 0px!important;
+        }
+        .apps-two {
+            margin-left: -15px!important;
+            margin-bottom: -14px!important;
+        }
+        .menu-l h1 {
+            font-size: 14pt!important;
+            margin-bottom: -1px!important;
+        }
+        .menu-ll h1 {
+            font-size: 14pt!important;
+            margin-bottom: -1px!important;
+        }
+        .menu-lll h1 {
+            font-size: 14pt!important;
+            margin-bottom: -1px!important;
+        }
+        .menu-lv h1 {
+            font-size: 14pt!important;
+            margin-bottom: -1px!important;
+        }
+        .menu-l ul li a {
+            font-size: 10pt!important;
+        }
+        .menu-ll ul li a {
+            font-size: 10pt!important;
+        }
+        .menu-lll ul li a {
+            font-size: 10pt!important;
+        }
+        .menu-lv ul li a {
+            font-size: 10pt!important;
+        }
+        .menu-l {
+            top: -1160px !important;
+            left: -38px !important;
+        }
+        .menu-l ul li {
+            padding: 4px 0px!important;
+        }
+        .menu-ll {
+            top: -906px !important;
+            left: -81px !important;
+        }
+        .menu-ll ul li {
+            padding: 4px 0px !important;
+        }
+        .menu-lll {
+            top: -654px !important;
+            left: -124px !important;
+        }
+        .menu-lll ul li {
+            padding: 4px 0px!important;
+        }
+        .menu-lv {
+            top: -404px !important;
+            left: -129px !important;
+        }
+        .menu-lv ul li {
+            padding: 4px 0px!important;
+        }
+}
+@media(min-width:992px)and(max-width:1199.98px){
+.poputar-text {
+justify-content: space-between!important;
+padding-top: 327px!important;
+}
+.menu ul li {
+padding: 0px -4px!important;
+}
+}
+@media(min-width:1200px)and(max-width:1399.98px){}
+@media(min-width:1400px){
+    
+}
